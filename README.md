@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Aldo!<br><br>I'm a 2nd-year Computer Science student at Bina Nusantara University, specializing in Full Stack Development (HTML, CSS, JavaScript, NextJS, and React) and Mobile App Development. Currently, I'm focusing on building robust mobile applications using Kotlin with Jetpack Compose, while also expanding my knowledge in Flutter for cross-platform development.<br>
+👋 Hi, I'm Aldo!<br><br>I'm a 2nd-year Computer Science student at Bina Nusantara University, specializing in Full Stack Development (HTML, CSS, JavaScript, NextJS, and .NET). Currently, I'm focusing on building robust web based E-Commerce application using NextJS and Django, while also expanding my knowledge in System Design.<br>
 
 
 ## 🌐 Socials:
