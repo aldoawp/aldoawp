@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Aldo!<br><br>I'm a 2nd-year Computer Science student at Bina Nusantara University, specializing in Full Stack Development (HTML, CSS Tailwind, JavaScript, NextJS, and ASP.NET). Currently, I'm focusing on building robust web based E-Commerce application using NextJS and Django, while also expanding my knowledge in LLMs, DevOps, and System Design.<br>
+👋 Hi, I'm Aldo!<br><br>I'm a 3rd-year Computer Science student at Bina Nusantara University, specializing in Full Stack Development (HTML, CSS, Tailwind, JavaScript, NextJS, and NestsJS). Currently, I'm focusing on my internship and startup, while also expanding my knowledge in LLMs, DevOps, and System Design.<br>
 
 
 ## 🌐 Socials:
