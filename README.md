@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Aldo!<br><br>A software engineer working at PT Freeport Indonesia, specializing in Full Stack Development (HTML, CSS, Tailwind, JavaScript, NextJS, and ExpressJS). Currently, I'm focusing on my 9-5 while building SaaS startup after daywork. Actively expanding my knowledge in LLMs, DevOps, and System Design.<br>
+👋 Hi, I'm Aldo!<br><br>A software engineer working at PT Freeport Indonesia, specializing in Full Stack Development (HTML, CSS, Tailwind, JavaScript, NextJS, and ExpressJS). Currently, I'm focusing on my 9-5 while building SaaS startup after daywork. Actively expanding my knowledge in agentic AI engineering and System Design.<br>
 
 
 ## 🌐 Socials:
